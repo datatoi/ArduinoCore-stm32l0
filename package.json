@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduinostm32lora",
+    "description": "Arduino Wiring-based Framework (STM32 Core)",
+    "version": "0.0.0",
+    "url": "https://github.com/datatoi/ArduinoCore-stm32l0"
+}
